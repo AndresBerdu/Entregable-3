@@ -1,4 +1,4 @@
-export default USER_BBDD = [
+export const USERS_BBDD = [
     {
         "_id": "634b0266e04f47d1b48b1533",
         "index": 0,
